@@ -31,6 +31,7 @@ body {
   justify-content: center;
   height: -webkit-fill-available;
   height: 100vh;
+  height: -webkit-fill-available;
   overflow: hidden;
   margin: 0;
 }
